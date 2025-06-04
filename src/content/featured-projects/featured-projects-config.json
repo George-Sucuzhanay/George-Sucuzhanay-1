@@ -24,14 +24,40 @@
     },
     {
         "id": "featured-agent-checklist",
-        "location": "Indiana University",
-        "github":"https://youtu.be/isSy4I6kxWg?si=IRfZFOu87CQXvIak",
+        "location": "New York",
+        "demo":"https://youtu.be/isSy4I6kxWg?si=IRfZFOu87CQXvIak",
         "title": "Agent Checklists: Intent Recognition",
         "year": "Dec 2022",
         "tags": ["Artifical Intelligence", "Machine Learning", "Python", "Pandas", "Numpy"],
         "description": "AI/ML project that uses natural language processing to predict the intent behind user chat inquiries and recommend the correct workflow for customer service agents. Trained on over 10,000 human-to-human dialogues, our model achieved 88% accuracy using logistic regression, outperforming other tested approaches",
         "readMore": "",
         "image": "",
-        "jpg": "/assets/featured-projects/measure-ux.jpeg"
+        "jpg": "/assets/featured-projects/agent-checklist.jpeg"
+    },
+    {
+        "id": "featured-financify",
+        "location": "New York",
+        "demo": "https://financiify-front-end.netlify.app/",
+        "github":"https://github.com/George-Sucuzhanay/financiify-mern-app",
+        "title": "Financify",
+        "year": "June 2022",
+        "tags": ["React", "MongoDB", "Express", "Node", "Heroku", "Netlify"],
+        "description": "AI/ML project that uses natural language processing to predict the intent behind user chat inquiries and recommend the correct workflow for customer service agents. Trained on over 10,000 human-to-human dialogues, our model achieved 88% accuracy using logistic regression, outperforming other tested approaches",
+        "readMore": "",
+        "image": "",
+        "jpg": "/assets/featured-projects/financify.jpeg"
+    },
+    {
+        "id": "featured-theoddone",
+        "location": "New York",
+        "demo": "https://financiify-front-end.netlify.app/",
+        "github":"https://github.com/George-Sucuzhanay/financiify-mern-app",
+        "title": "The Odd One",
+        "year": "March 2022",
+        "tags": ["React", "Node.js", "Netlify"],
+        "description": "Web app designed to support first-generation and low-income students in navigating the college search process. By leveraging public data from the U.S. Department of Education, it helps students compare institutions based on location, income-based tuition, and first-gen student retention rates.",
+        "readMore": "",
+        "image": "",
+        "jpg": "/assets/featured-projects/the-odd-one.jpeg"
     }
 ]

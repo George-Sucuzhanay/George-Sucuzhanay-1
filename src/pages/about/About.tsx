@@ -64,9 +64,6 @@ export const About: FC = () => {
                 <Box flex="0.6" overflow="hidden">
                     <Experience />
                 </Box>
-                <Box flex="0.6" flexShrink="0" overflow="hidden">
-                    <Education />
-                </Box>
             </Flex>
             <Box pt="16">
                 <Skills />

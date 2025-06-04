@@ -35,21 +35,23 @@ export const OtherProjects: FC = () => {
     };
 
     return (
-        <Box>
-            {configs.otherProjects.map((project, idx) => (
-                <div key={project.id}>{idx < count && <OtherProjectCard key={project.id} {...project} />}</div>
-            ))}
-            <Flex justifyContent="center" py="8" display={configs.otherProjects.length > 3 ? "flex" : "none"}>
-                {count < configs.otherProjects.length ? (
-                    <Button rightIcon={<ChevronDownIcon />} variant="link" onClick={onShowMore}>
-                        Show More
-                    </Button>
-                ) : (
-                    <Button rightIcon={<ChevronUpIcon />} variant="link" onClick={onShowLess}>
-                        Show Less
-                    </Button>
-                )}
-            </Flex>
-        </Box>
+        <></>
+        
+        // <Box>
+        //     {configs.otherProjects.map((project, idx) => (
+        //         <div key={project.id}>{idx < count && <OtherProjectCard key={project.id} {...project} />}</div>
+        //     ))}
+        //     <Flex justifyContent="center" py="8" display={configs.otherProjects.length > 3 ? "flex" : "none"}>
+        //         {count < configs.otherProjects.length ? (
+        //             <Button rightIcon={<ChevronDownIcon />} variant="link" onClick={onShowMore}>
+        //                 Show More
+        //             </Button>
+        //         ) : (
+        //             <Button rightIcon={<ChevronUpIcon />} variant="link" onClick={onShowLess}>
+        //                 Show Less
+        //             </Button>
+        //         )}
+        //     </Flex>
+        // </Box>
     );
 };
