@@ -57,11 +57,15 @@ export const About: FC = () => {
                 mt="16"
                 justifyContent="space-between"
             >
+                {/* HERE IS THE CODE TO ADD A SEPARATION BTW TECHNICAL AND TEACHING EXPERIENCE */}
                 <Box flex="0.6" flexShrink="0" overflow="hidden">
                     <Education />
                 </Box>
                 <Box flex="0.6" overflow="hidden">
                     <Experience />
+                </Box>
+                <Box flex="0.6" flexShrink="0" overflow="hidden">
+                    <Education />
                 </Box>
             </Flex>
             <Box pt="16">
