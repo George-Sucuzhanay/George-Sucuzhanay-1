@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 import { FC, useState } from "react";
 
 import { Box, Button, Flex } from "@chakra-ui/react";
