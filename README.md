@@ -1,70 +1,28 @@
-# Portfolio Template 🖐
-> Version 2 of a simple, minimal and responsive personal website template, built using React, TypeScript, HTML and SCSS.
+# 👋 Hello, I'm George Sucuzhanay!##
+  🌐 Welcome to the codebase for my **personal portfolio website** — a digital space where I showcase my journey as a software engineer, product strategist, and CS educator from Queens, NY.
+  Built with intention, design, and storytelling, this site highlights the projects, tools, and communities I've poured my heart into ❤️
 
-![Portfolio Template Banner](public/assets/readme/banner.png)
+## Built_with:
+  - "⚛️ React.js – for fast, dynamic UI"
+  - "💅 SCSS – for sleek, maintainable styling"
+  - "🔗 React Router – to handle page navigation"
+  - "🌙 Dark Mode Toggle – because vibes matter"
 
-💻  Live [demo](https://hpaul-v2.web.app/)
+# features:
+  - "🧠 Project Showcases with tech tags, GitHub/demo buttons, and device mockup displays"
+  - "👨‍🏫 About Me section sharing my tech-for-equity mission"
+  - "💼 Resume link + contact buttons (LinkedIn, GitHub, Email)"
+  - "📚 Skills section organized by category (Programming, Web, Databases, Tools)"
+  - "✍️ Blog section with articles on CS education and core software concepts"
 
----
+# acknowledgments:
+  - "✨ Inspiration from developer portfolios and design mentors"
+  - "💡 Powered by coffee, late-night edits, and a deep love for equity in tech"
 
-## Table of Contents
+# contact:
+  linkedin: "https://www.linkedin.com/in/georgesucuzhanay/"
+  github: "https://github.com/George-Sucuzhanay"
+  email: "georgesucuzhanay100@gmail.com"
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Connect](#connect)
-- [License](#license)
-
----
-
-## Installation
-
-### Setup 
-
-Close repository
-
-```shell
-$ git clone https://github.com/hrishikeshpaul/portfolio-template-v2.git
-```
-
-To install the node packages used in the project:
-
-```shell
-$ cd portfolio-template-v2
-$ yarn install
-```
-
-Compiles and hot-reloads for development
-
-```shell
-$ yarn start
-```
-
-Compiles and minifies for production
-```shell
-$ yarn build
-```
-
-## Usage
-
-All the information can be edited in the JSONs and Markdowns in the [content folder](https://github.com/hrishikeshpaul/portfolio-template-v2/tree/main/src/content). Each section of the portfolio has its own folder. The `common.json` file contains details that are used throughout the website. 
-
-All the images are in `public/assets`.
-
-## Contributing 
-
-- Clone this repo to your local machine.
-- Checkout to a new branch. Give it a relevant name!
-- Create a pull request
-
-## Connect
-
-- Website at <a href="https://hrishikeshpaul.github.io/" target="_blank">`https://hrishikeshpaul.github.io/`</a>
-- LinkedIn at <a href="https://www.linkedin.com/in/hrishikeshpaul/" target="_blank">`hrishikeshpaul`</a>
-
-## License
-
-[![license](https://img.shields.io/github/license/hrishikeshpaul/portfolio-template?style=flat&logo=appveyor)](https://github.com/hrishikeshpaul/portfolio-template-v2/blob/master/LICENSE) 
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2022 © <a href="https://hrishikeshpaul.github.io/" target="_blank">Hrishikesh Paul</a>
+# footer:
+  > “Let’s build something that matters.” ❤️
