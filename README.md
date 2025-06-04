@@ -20,9 +20,9 @@
   - 💡 Powered by coffee, late-night edits, and a deep love for equity in tech
 
 ## contact:
-  linkedin: "https://www.linkedin.com/in/georgesucuzhanay/"
-  github: "https://github.com/George-Sucuzhanay"
-  email: "georgesucuzhanay100@gmail.com"
+  - linkedin: "https://www.linkedin.com/in/georgesucuzhanay/"
+  - github: "https://github.com/George-Sucuzhanay"
+  - email: "georgesucuzhanay100@gmail.com"
 
 ## footer:
   > Let’s build something that matters. ❤️
